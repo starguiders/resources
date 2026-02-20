@@ -11,9 +11,9 @@
   font-weight: normal;
   font-style: "Regular";
   src:
-    url("/Icons-Blobs/Icofont/Icofonts/icofont.woff2") format("woff2"),
-    url("/Icons-Blobs/Icofont/Icofonts/icofont.woff") format("woff"),
-    url("/Icons-Blobs/Icofont/Icofonts/icofont.ttf") format("truetype");
+    url("/resources/Icofont/Icofonts/icofont.woff2") format("woff2"),
+    url("/resources/Icofont/Icofonts/icofont.woff") format("woff"),
+    url("/resources/Icofont/Icofonts/icofont.ttf") format("truetype");
 }
 
 [class^="icofont-"],
@@ -8453,4 +8453,5 @@
 
 .icofont-zipped:before {
   content: "\f02e";
+
 }

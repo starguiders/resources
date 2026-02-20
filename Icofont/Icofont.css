@@ -11,9 +11,9 @@
   font-weight: normal;
   font-style: "Regular";
   src:
-    url("//starguiders.github.io/resources/Icofont/Icofonts/icofont.woff2") format("woff2"),
-    url("//starguiders.github.io/resources/Icofont/Icofonts/icofont.woff") format("woff"),
-    url("//starguiders.github.io/resources/Icofont/Icofonts/icofont.ttf") format("truetype");
+    url("/resources/Icofont/Icofonts/icofont.woff2") format("woff2"),
+    url("/resources/Icofont/Icofonts/icofont.woff") format("woff"),
+    url("/resources/Icofont/Icofonts/icofont.ttf") format("truetype");
 }
 
 [class^="icofont-"],

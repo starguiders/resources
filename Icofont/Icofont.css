@@ -11,9 +11,9 @@
   font-weight: normal;
   font-style: "Regular";
   src:
-    url("//maplecoded.github.io/Icons-Blobs/Icofont/Icofonts/icofont.woff2") format("woff2"),
-    url("//maplecoded.github.io/Icons-Blobs/Icofont/Icofonts/icofont.woff") format("woff"),
-    url("//maplecoded.github.io/Icons-Blobs/Icofont/Icofonts/icofont.ttf") format("truetype");
+    url("//starguiders.github.io/resources/Icofont/Icofonts/icofont.woff2") format("woff2"),
+    url("//starguiders.github.io/resources/Icofont/Icofonts/icofont.woff") format("woff"),
+    url("//starguiders.github.io/resources/Icofont/Icofonts/icofont.ttf") format("truetype");
 }
 
 [class^="icofont-"],

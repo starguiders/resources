@@ -10,7 +10,7 @@ Phosphor is a flexible icon family for interfaces, diagrams, presentations — w
 - Designed at 16 x 16px to read well small and scale up big
 - Raw stroke information retained to fine-tune the style
 
-More ways to use at [phosphoricons.com](https://phosphoricons.com).
+More ways to use these icons at [phosphoricons.com](https://phosphoricons.com).
 <!-- END_OVERVIEW -->
 
 # Usage

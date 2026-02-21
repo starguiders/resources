@@ -15,7 +15,7 @@ More ways to use at [phosphoricons.com](https://phosphoricons.com).
 
 # Usage
 
-* add the stylesheet to your html page before </head> with: `<link rel="stylesheet" href="https://starguiders.github.io/resources/Phosphor Icons/PhosphorIcons.css"/>`
+* add the stylesheet to your html page before the end of head with: `<link rel="stylesheet" href="https://starguiders.github.io/resources/Phosphor Icons/PhosphorIcons.css"/>`
 * add an icon: `<i class="ph-light ph-anchor"></i>`, substituting after the first ph- to change the weight name (removing -light to make it a regular icon) substituting after the second ph- with the icon name.
 
 # For developers

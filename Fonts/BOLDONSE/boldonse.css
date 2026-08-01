@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -13,11 +13,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
@@ -26,11 +26,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -39,11 +39,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 200;
     font-style: italic;
     font-display: swap;
@@ -52,11 +52,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -65,11 +65,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -78,11 +78,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -91,11 +91,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: italic;
     font-display: swap;
@@ -104,11 +104,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -117,11 +117,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -130,11 +130,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -143,11 +143,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
@@ -156,11 +156,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -169,11 +169,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 700;
     font-style: italic;
     font-display: swap;
@@ -182,11 +182,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
     font-display: swap;
@@ -195,11 +195,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 800;
     font-style: italic;
     font-display: swap;
@@ -208,11 +208,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -221,11 +221,11 @@
 
 @font-face {
     font-family: 'Boldonse';
-    src: url('//dl.dropboxusercontent.com/scl/fi/nrurv733qhk44ts1338k8/Boldonse-Regular.otf?rlkey=nx2a3nr1cm9q0t8dzau9alkez&st=x2drakaj&dl=0');
-    src: url('//dl.dropboxusercontent.com/scl/fi/p01h9zyqv72pjg5zpy57w/Boldonse-Regular.eot?rlkey=52r7s7j7g2yrsj1oofyz07b1p&st=tnk8gvb8&dl=0?#iefix') format('embedded-opentype'),
-        url('//dl.dropboxusercontent.com/scl/fi/x9khpv6ozhocntp3z0noy/Boldonse-Regular.woff2?rlkey=20vkwxcayx67iccru2xnhzxke&st=gnimui1j&dl=0') format('woff2'),
-        url('//dl.dropboxusercontent.com/scl/fi/d1loa5xtznmf0r7psuog1/Boldonse-Regular.woff?rlkey=cvs8x99bz9sj769xulhxmkrlz&st=f3w2vf4a&dl=0') format('woff'),
-        url('//dl.dropboxusercontent.com/scl/fi/f818cfilohm2mdqww6nqu/Boldonse-Regular.ttf?rlkey=08325o97vnx2lvmdjn7a0quyx&st=if698jkg&dl=0') format('truetype');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.otf');
+    src: url('/resources/Fonts/BOLDONSE/Boldonse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff2') format('woff2'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.woff') format('woff'),
+        url('/resources/Fonts/BOLDONSE/Boldonse-Regular.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
